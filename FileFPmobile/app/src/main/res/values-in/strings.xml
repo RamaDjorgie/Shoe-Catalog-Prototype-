@@ -1,0 +1,178 @@
+<resources>
+
+        <string name="app_name">Shoe Catalogue </string>
+
+        <string name="ini_judul">INI JUDUL</string>
+        <string name="ini_genre">INI GENRE</string>
+        <string name="ini_durasi">INI DURASI</string>
+        <string name="ini_ta_hun">INI TA HUN</string>
+        <string name="sinopsis">Synopsis</string>
+        <string name="isi_isi">isi isi</string>
+        <string name="ini_sejarah_singkat_fgugfshfshfhsiufs">INI Sejarah singkat fgugfshfshfhsiufs</string>
+        <string name="ini_keterangan">INI KETERANGAN</string>
+
+        <string name="tab_text_1">Local</string>
+        <string name="tab_text_2">Non Local</string>
+        <string name="tab_text_3">Terlaris</string>
+        <string name="bahasa">Switch language</string>
+
+        <!-- =================== MOVIES =================== -->
+
+        <!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+
+        <string-array name="movies_data_photo">
+                <item>@drawable/sepatu16</item>
+                <item>@drawable/sepatu17</item>
+                <item>@drawable/sepatu18</item>
+                <item>@drawable/sepatu19</item>
+                <item>@drawable/sepatu20</item>
+                <item>@drawable/sepatu21</item>
+
+        </string-array>
+
+        <string-array name="movies_data_name">
+                <item>Sepatu Compass Ori</item>
+                <item>Sepatu Kompas Gazelle</item>
+                <item>Sepatu Redknot Bandit 05 Brown</item>
+                <item>Sepatu Redknot Khronos 01</item>
+                <item>Sepatu Redknot Manacle Tan</item>
+                <item>Sepatu Compass Vintage</item>
+
+        </string-array>
+
+        <string-array name="movies_data_genres">
+                <item>Ukuran 40-45</item>
+                <item>Ukuran 40-45</item>
+                <item>Ukuran 20-45</item>
+                <item>Ukuran 40-43</item>
+                <item>Ukuran 41-45</item>
+                <item>Ukuran 44-5</item>
+
+        </string-array>
+
+        <string-array name="movies_data_year">
+                <item>Rp 350.000</item>
+                <item>Rp 320.000</item>
+                <item>Rp 349.000</item>
+                <item>Rp 299.000</item>
+                <item>Rp 300.000</item>
+                <item>Rp 299.000</item>
+
+        </string-array>
+
+        <string-array name="movies_data_duration">
+                <item>Indonesia</item>
+                <item>Indonesia</item>
+                <item>Indonesia</item>
+                <item>Indonesia</item>
+                <item>Indonesia</item>
+                <item>Indonesia</item>
+                <item>Indonesia</item>
+
+        </string-array>
+
+        <!-- =================== TV SHOWS =================== -->
+
+        <string-array name="movies_data_description">
+                <item> Sepatu Compass merupakan merek sepatu yang berasal dari Bandung dengan sistem vulkanisir dan desain yang sangat berkualitas.</item>
+                <item>Sepatu Compass merupakan merek sepatu yang berasal dari Bandung dengan sistem vulkanisir dan desain yang sangat berkualitas. </item>
+                <item>Redknot adalah bisnis yang bergerak di sektor fashion pria. Perusahaan kami berdiri sejak tahun 2011. Team kami telah melewati masa-masa senang dan susah serta sampai detik ini pun masih terus belajar dan berproses untuk menghadapi. </item>
+                <item>Redknot adalah bisnis yang bergerak di sektor fashion pria. Perusahaan kami berdiri sejak tahun 2011. Team kami telah melewati masa-masa senang dan susah serta sampai detik ini pun masih terus belajar dan berproses untuk menghadapi. </item>
+                <item> Sepatu Compass merupakan merek sepatu yang berasal dari Bandung dengan sistem vulkanisir dan desain yang sangat berkualitas.</item>
+                <item> Sepatu Compass merupakan merek sepatu yang berasal dari Bandung dengan sistem vulkanisir dan desain yang sangat berkualitas.</item>
+
+        </string-array>
+
+        <string-array name="tvshows_data_photo">
+                <item>@drawable/sepatu1</item>
+                <item>@drawable/sepatu2</item>
+                <item>@drawable/sepatu3</item>
+                <item>@drawable/sepatu4</item>
+                <item>@drawable/sepatu5</item>
+                <item>@drawable/sepatu6</item>
+                <item>@drawable/sepatu7</item>
+                <item>@drawable/sepatu8</item>
+                <item>@drawable/sepatu9</item>
+                <item>@drawable/sepatu10</item>
+                <item>@drawable/sepatu11</item>
+                <item>@drawable/sepatu12</item>
+                <item>@drawable/sepatu13</item>
+                <item>@drawable/sepatu14</item>
+                <item>@drawable/sepatu15</item>
+
+        </string-array>
+
+        <string-array name="tvshows_data_name">
+                <item>Sepatu nike terbaru pria/wanita</item>
+                <item>SEPATU NIKE ZOOM VOMERO JOGING SNEAKERS</item>
+                <item>Sepatu Sneakers Nike Tanjun Black Gold Original</item>
+                <item>Sepatu Sneakers Nike Original</item>
+                <item>Sepatu Sneakers Black Pink Original</item>
+                <item>Sepatu Adidas</item>
+                <item>Sepatu Adidas Alphabounce</item>
+                <item>Sepatu Adidas</item>
+                <item>Sepatu Adidas Running</item>
+                <item>Sepatu Adidas Alphabounce Red Blue</item>
+
+                |
+
+        </string-array>
+
+        <string-array name="tvshows_data_genres">
+                <item>Ukuran 28-45</item>
+                <item>Ukuran 30-45</item>
+                <item>Ukuran 40-45</item>
+                <item>Ukuran 28-45</item>
+                <item>Ukuran 17-45</item>
+                <item>Ukuran 28-40</item>
+                <item>Ukuran 39-41</item>
+                <item>Ukuran 28-45</item>
+                <item>Ukuran 38-44</item>
+                <item>Ukuran 28-45</item>
+
+
+        </string-array>
+
+        <string-array name="tvshows_data_year">
+                <item>Rp 90.000</item>
+                <item>Rp 100.000</item>
+                <item>Rp 200.000</item>
+                <item>Rp 199.999</item>
+                <item>Rp 350.000</item>
+                <item>Rp 150.000</item>
+                <item>Rp 170.000</item>
+                <item>Rp 200.000</item>
+                <item>Rp 400.000</item>
+                <item>Rp 200.000</item>
+        </string-array>
+
+        <string-array name="tvshows_data_duration">
+                <item>Non Local</item>
+                <item>Non Local</item>
+                <item>Non Local</item>
+                <item>Non Local</item>
+                <item>Non Local</item>
+                <item>Non Local</item>
+                <item>Non Local</item>
+                <item>Non Local</item>
+                <item>Non Local</item>
+                <item>Non Local</item>
+
+
+        </string-array>
+
+        <!-- TODO: Remove or change this placeholder text -->
+        <string-array name="tvshows_data_description">
+                <item>Berbasis dari nama dewi Yunani yang berarti kemenangan, Nike didirikan tahun 1964 ketika atlet sekaligus pengusaha Oregon bernama Phillip Knight.</item>
+                <item>Berbasis dari nama dewi Yunani yang berarti kemenangan, Nike didirikan tahun 1964 ketika atlet sekaligus pengusaha Oregon bernama Phillip Knight.</item>
+                <item>Berbasis dari nama dewi Yunani yang berarti kemenangan, Nike didirikan tahun 1964 ketika atlet sekaligus pengusaha Oregon bernama Phillip Knight.</item>
+                <item>Berbasis dari nama dewi Yunani yang berarti kemenangan, Nike didirikan tahun 1964 ketika atlet sekaligus pengusaha Oregon bernama Phillip Knight.</item>
+                <item>Berbasis dari nama dewi Yunani yang berarti kemenangan, Nike didirikan tahun 1964 ketika atlet sekaligus pengusaha Oregon bernama Phillip Knight.</item>
+                <item>Adidas adalah salah satu perusahaan sepatu asal Jerman, perusahaan ini dinamai sesuai dengan nama pendirinya yaitu Adolf (adi) Dassler.</item>
+                <item>Adidas adalah salah satu perusahaan sepatu asal Jerman, perusahaan ini dinamai sesuai dengan nama pendirinya yaitu Adolf (adi) Dassler.</item>
+                <item>Adidas adalah salah satu perusahaan sepatu asal Jerman, perusahaan ini dinamai sesuai dengan nama pendirinya yaitu Adolf (adi) Dassler.</item>
+                <item>Adidas adalah salah satu perusahaan sepatu asal Jerman, perusahaan ini dinamai sesuai dengan nama pendirinya yaitu Adolf (adi) Dassler.</item>
+                <item>Adidas adalah salah satu perusahaan sepatu asal Jerman, perusahaan ini dinamai sesuai dengan nama pendirinya yaitu Adolf (adi) Dassler.</item>
+        </string-array>
+
+</resources>

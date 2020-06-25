@@ -1,0 +1,178 @@
+<resources>
+
+    <string name="app_name">Shoe Catalogue </string>
+
+    <string name="ini_judul">INI JUDUL</string>
+    <string name="ini_genre">INI GENRE</string>
+    <string name="ini_durasi">INI DURASI</string>
+    <string name="ini_ta_hun">INI TA HUN</string>
+    <string name="sinopsis">Synopsis</string>
+    <string name="isi_isi">isi isi</string>
+    <string name="ini_sejarah_singkat_fgugfshfshfhsiufs">INI Sejarah singkat fgugfshfshfhsiufs</string>
+    <string name="ini_keterangan">INI KETERANGAN</string>
+
+    <string name="tab_text_1">Local</string>
+    <string name="tab_text_2">Non Local</string>
+    <string name="tab_text_3">Terlaris</string>
+    <string name="bahasa">Switch language</string>
+
+    <!-- =================== MOVIES =================== -->
+
+    <!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+
+    <string-array name="movies_data_photo">
+        <item>@drawable/sepatu16</item>
+        <item>@drawable/sepatu17</item>
+        <item>@drawable/sepatu18</item>
+        <item>@drawable/sepatu19</item>
+        <item>@drawable/sepatu20</item>
+        <item>@drawable/sepatu21</item>
+
+    </string-array>
+
+    <string-array name="movies_data_name">
+        <item>Ori Compass Shoes</item>
+        <item>Kompas Gazelle Shoes</item>
+        <item>Redknot Bandit 05 Brown Shoes</item>
+        <item>Redknot Khronos 01 Shoes</item>
+        <item>Redknot Manacle Tan Shoes</item>
+        <item>Compass Vintage Shoes</item>
+
+    </string-array>
+
+    <string-array name="movies_data_genres">
+        <item>Size 40-45</item>
+        <item>Size 40-45</item>
+        <item>Size 20-45</item>
+        <item>Size 40-43</item>
+        <item>Size 41-45</item>
+        <item>Size 44-5</item>
+
+    </string-array>
+
+    <string-array name="movies_data_year">
+        <item>350.000 IDR</item>
+        <item>320.000 IDR</item>
+        <item>349.000 IDR</item>
+        <item>299.000 IDR</item>
+        <item>300.000 IDR</item>
+        <item>299.000 IDR</item>
+
+    </string-array>
+
+    <string-array name="movies_data_duration">
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+
+    </string-array>
+
+    <!-- =================== TV SHOWS =================== -->
+
+    <string-array name="movies_data_description">
+        <item>Compass Shoes is a shoe brand originating from Bandung with a highly quality retread and design system.</item>
+        <item>Compass Shoes is a shoe brand originating from Bandung with a highly quality retread and design system. </item>
+        <item>Compass Shoes is a shoe brand originating from Bandung with a highly quality retread and design system.</item>
+        <item>Compass Shoes is a shoe brand originating from Bandung with a highly quality retread and design system.</item>
+        <item>Compass Shoes is a shoe brand originating from Bandung with a highly quality retread and design system.</item>
+        <item>Compass Shoes is a shoe brand originating from Bandung with a highly quality retread and design system.</item>
+
+    </string-array>
+
+    <string-array name="tvshows_data_photo">
+        <item>@drawable/sepatu1</item>
+        <item>@drawable/sepatu2</item>
+        <item>@drawable/sepatu3</item>
+        <item>@drawable/sepatu4</item>
+        <item>@drawable/sepatu5</item>
+        <item>@drawable/sepatu6</item>
+        <item>@drawable/sepatu7</item>
+        <item>@drawable/sepatu8</item>
+        <item>@drawable/sepatu9</item>
+        <item>@drawable/sepatu10</item>
+        <item>@drawable/sepatu11</item>
+        <item>@drawable/sepatu12</item>
+        <item>@drawable/sepatu13</item>
+        <item>@drawable/sepatu14</item>
+        <item>@drawable/sepatu15</item>
+
+    </string-array>
+
+    <string-array name="tvshows_data_name">
+        <item>The newest nike shoes for men/women</item>
+        <item>NIKE ZOOM VOMERO JOGING SNEAKERS SHOES</item>
+        <item>Original Nike Tanjun Black Gold Sneakers</item>
+        <item>Original Nike Sneakers</item>
+        <item>Original Black Pink Sneakers</item>
+        <item>Adidas Shoes</item>
+        <item>Adidas Alphabounce Shoes</item>
+        <item>Adidas Shoes</item>
+        <item>Adidas Running Shoes</item>
+        <item>\Adidas Alphabounce Red Blue Shoes</item>
+
+        |
+
+    </string-array>
+
+    <string-array name="tvshows_data_genres">
+        <item>Size 28-45</item>
+        <item>Size 30-45</item>
+        <item>Size 40-45</item>
+        <item>Size 28-45</item>
+        <item>Size 17-45</item>
+        <item>Size 28-40</item>
+        <item>Size 39-41</item>
+        <item>Size 28-45</item>
+        <item>Size 38-44</item>
+        <item>Size 28-45</item>
+
+
+    </string-array>
+
+    <string-array name="tvshows_data_year">
+        <item>90.000  IDR</item>
+        <item>100.000 IDR</item>
+        <item>200.000 IDR</item>
+        <item>199.999 IDR</item>
+        <item>350.000 IDR</item>
+        <item>150.000 IDR</item>
+        <item>170.000 IDR</item>
+        <item>200.000 IDR</item>
+        <item>400.000 IDR</item>
+        <item>200.000 IDR</item>
+    </string-array>
+
+    <string-array name="tvshows_data_duration">
+        <item>Non Local</item>
+        <item>Non Local</item>
+        <item>Non Local</item>
+        <item>Non Local</item>
+        <item>Non Local</item>
+        <item>Non Local</item>
+        <item>Non Local</item>
+        <item>Non Local</item>
+        <item>Non Local</item>
+        <item>Non Local</item>
+
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="tvshows_data_description">
+        <item>Based on the name of the Greek goddess which means victory, Nike was founded in 1964 when an Oregon athlete and entrepreneur named Phillip Knight.</item>
+        <item>Based on the name of the Greek goddess which means victory, Nike was founded in 1964 when an Oregon athlete and entrepreneur named Phillip Knight.</item>
+        <item>Based on the name of the Greek goddess which means victory, Nike was founded in 1964 when an Oregon athlete and entrepreneur named Phillip Knight.</item>
+        <item>Based on the name of the Greek goddess which means victory, Nike was founded in 1964 when an Oregon athlete and entrepreneur named Phillip Knight.</item>
+        <item>Based on the name of the Greek goddess which means victory, Nike was founded in 1964 when an Oregon athlete and entrepreneur named Phillip Knight.</item>
+        <item>Adidas is a footwear company from Germany, this company is named after its founder, Adolf (adi) Dassler.</item>
+        <item>Adidas is a footwear company from Germany, this company is named after its founder, Adolf (adi) Dassler.</item>
+        <item>Adidas is a footwear company from Germany, this company is named after its founder, Adolf (adi) Dassler.</item>
+        <item>Adidas is a footwear company from Germany, this company is named after its founder, Adolf (adi) Dassler.</item>
+        <item>Adidas is a footwear company from Germany, this company is named after its founder, Adolf (adi) Dassler.</item>
+    </string-array>
+
+</resources>
